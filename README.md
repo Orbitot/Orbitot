@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Orbitot
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning python programming
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: through gmail - shashwathmagesh9@gmail.com
